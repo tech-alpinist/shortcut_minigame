@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-![screenshot]("./Screenshot.png")
+![screenshot](./Screenshot.png)
 
 ### `npm start`
 
